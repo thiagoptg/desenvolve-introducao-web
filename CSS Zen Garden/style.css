@@ -7,3 +7,12 @@ h1 {color: #042940;background-color:#9FC131;}
 html {background-color: #D6D58E;}
 h3 {color: #DBF227;background-color:#042940;}
 h2 {color: #DBF227;background-color: #042940;}
+
+html {text-align: justify;font-size: 30px;font-family:Helvetica, sans-serif;}
+p {text-indent: 1em;}
+h2{text-align: center;font-size: 1.4rem;}
+h1{text-align: center;font-size: 1.8rem;}
+h3{text-align: center;font-size: 1.2rem;}
+.main p {line-height: 1.5;}
+.summary{text-align: right;}
+abbr {font-variant:small-caps;}
